@@ -1,0 +1,22 @@
+header{
+    width: 100%;
+    background: #080808;
+    height: 80px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.cart-button{
+    width: 100px;
+    height: 40px;
+    background-color: #fcfcfc; 
+}
+
+.goods-list{
+    color: gray;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
